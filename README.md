@@ -57,7 +57,11 @@ Predict whether an employee is likely to leave based on HR data.
 2. Encode categorical variables
 3. Train/test split and model training
 4. Evaluate and visualize performance
-
+   
+**Project Link:**
+***
+https://www.getyourprojectdone.in/projects/Predict-Employee-Turnover-with-scikitlearn-Using-Python-With-ML
+***
 ---
 
 ## 3. Human Activity Detection Using Python (ML)
@@ -76,6 +80,10 @@ Classify physical activities (walking, running, sitting, etc.) using smartphone 
 
 **Steps:** Feature extraction → Training → Evaluation → Deployment (Flask API)
 
+**Project Link:**
+***
+https://www.getyourprojectdone.in/projects/Human-Activity-Detection-Using-Python-With-ML
+***
 ---
 
 ## 4. Fake News Detection on Digital Platforms (Python, ML)
@@ -95,6 +103,10 @@ Detect fake or misleading news articles using Natural Language Processing and ML
 
 **Steps:** Preprocess → Vectorize → Train → Evaluate → Predict
 
+**Project Link:**
+***
+https://www.getyourprojectdone.in/projects/Fake-News-On-Digital-Platforms-Using-Python-With-ML
+***
 ---
 
 ## 5. House Price Prediction (Python, ML)
@@ -112,7 +124,10 @@ Predict house prices based on features such as size, location, and condition.
 **Libraries:** sklearn, pandas, matplotlib, seaborn, numpy
 
 **Output:** Predicted price and performance metrics (R², RMSE)
-
+**Project Link:**
+***
+https://www.getyourprojectdone.in/projects/House-price-prediction-Using-Python-With-ML
+***
 ---
 
 ## 6. A Stacked Learning Approach for Spam Email Detection (Python, ML)
@@ -130,7 +145,10 @@ Spam classification using a stacked ensemble of ML algorithms for higher accurac
 * Dataset: SpamAssassin / Kaggle Email Dataset
 
 **Libraries:** sklearn, nltk, re, pandas, numpy
-
+**Project Link:**
+***
+https://www.getyourprojectdone.in/projects/A-Stacked-Learning-Approach-for-Spam-Email-Detection-Using-Python-With-Ml
+***
 ---
 
 ## 7. Heart Disease Prediction Using Python (ML)
@@ -149,7 +167,10 @@ Predict the likelihood of heart disease based on clinical data.
 **Libraries:** pandas, sklearn, seaborn, matplotlib
 
 **Output:** Risk prediction and probability visualization
-
+**Project Link:**
+***
+https://www.getyourprojectdone.in/projects/Iris-flower-classification-Using-Python-With-ML-1
+***
 ---
 
 ## 8. Stock Market Prediction Using Python (ML)
@@ -167,7 +188,10 @@ Predict future stock prices using ML algorithms and time-series forecasting.
 **Libraries:** pandas, numpy, matplotlib, sklearn, yfinance, keras (optional)
 
 **Steps:** Fetch data → Preprocess → Train → Predict → Visualize
-
+**Project Link:**
+***
+https://www.getyourprojectdone.in/projects/heart-disease-prediction-Using-Python-With-ML
+***
 ---
 
 ## 9. Diabetes Prediction Using Python (ML)
@@ -185,7 +209,10 @@ Predict the presence of diabetes using patient medical data.
 **Libraries:** pandas, sklearn, seaborn, matplotlib
 
 **Output:** Predicted diagnosis and model accuracy
-
+**Project Link:**
+***
+https://www.getyourprojectdone.in/projects/Breast-Cancer-Detection-using-Machine-Learning
+***
 ---
 
 ## 10. Iris Flower Classification Using Python (ML)
@@ -203,7 +230,10 @@ Classic ML problem to classify iris flowers into species based on sepal and peta
 **Steps:** Load → Split → Train → Predict → Evaluate
 
 **Libraries:** sklearn, matplotlib, seaborn
-
+**Project Link:**
+***
+https://www.getyourprojectdone.in/projects/Iris-flower-classification-Using-Python-With-ML-1
+***
 ---
 
 ## Common ML Project Structure
