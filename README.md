@@ -29,7 +29,11 @@ A recommendation engine suggesting movies to users based on preferences, viewing
 2. Build similarity matrix using TF-IDF or cosine similarity
 3. Create recommendation function
 4. Visualize results in Streamlit
-
+   
+**Project Link:**
+***
+https://www.getyourprojectdone.in/projects/Movie-Recommendation-System-Using-Python-With-ML
+***
 ---
 
 ## 2. Predict Employee Turnover (scikit-learn, ML)
